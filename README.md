@@ -1,5 +1,11 @@
 I'm just going to play with the data and maybe try to make some plots. Don't 
-expect anything amazing. -EC
+expect anything amazing. 
+
+Also, I'm totally new to git/github, so I hope I'm not doing this forking thing
+in a way that's obnoxious to the community or messes anything up. Please feel
+free to yell at me if I am. 
+
+-EC
 
 Original README follows:
 
