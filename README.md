@@ -1,5 +1,9 @@
-The Museum of Modern Art (MoMA) Collection 
-===================
+I'm just going to play with the data and maybe try to make some plots. Don't 
+expect anything amazing. -EC
+
+Original README follows:
+
+# The Museum of Modern Art (MoMA) Collection 
 
 The Museum of Modern Art (MoMA) acquired its first artworks in 1929, the year it was established. Today, the Museum’s evolving collection contains almost 200,000 works from around the world spanning the last 150 years. The collection includes an ever-expanding range of visual expression, including painting, sculpture, printmaking, drawing, photography, architecture, design, film, and media and performance art.  
 
