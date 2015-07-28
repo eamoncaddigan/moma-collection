@@ -1,9 +1,14 @@
+# First stab at the MoMA data. I wondered if the museum would tend toward
+# collecting older works as time went on. 
+
 require(dplyr)
 require(tidyr)
 require(ggplot2)
 
+
 artworks <- read.csv("Artworks.csv", stringsAsFactors = FALSE)
 
+# Just pull out the year, since dates aren't always formatted correctly.
 artworks <- artworks %>% 
   filter(grepl("[0-9]{4}", DateAcquired),
          grepl("[0-9]{4}", Date)) %>%
@@ -12,6 +17,7 @@ artworks <- artworks %>%
          acquisition_age = year_acquired-year_started) %>%
   filter(acquisition_age >= 0)
 
+# Plot each work's age vs. its year of acquisition
 ggplot(artworks, aes(x=year_acquired, y=acquisition_age)) + 
   geom_point(alpha = 0.01, position = position_jitter(w = 0.5, h = 0.5)) + 
   geom_smooth(se=FALSE, size=1.5) + 
