@@ -23,14 +23,16 @@ artworks <- artworks %>%
          Department = ifelse(Department %in% departments, Department, "Other"),
          Department = factor(Department, c("Other", departments)))
 
-# Find the cummulative number of works from each department
+# Find the cumulative number of works from each department
 artworks.tally <- artworks %>% 
   group_by(year_acquired, Department) %>% 
   tally() %>% 
+  # Fill in missing years
+  spread(Department, n, fill = 0) %>% gather("Department", "n", -year_acquired) %>%
+  # Find the total works over time
   group_by(Department) %>% 
   mutate(total_works=cumsum(n))
 
-# XXX - This is buggy here, the notches seem to be a ggplot2 error. :(
 p1 <- artworks.tally %>%
   ggplot(aes(x=year_acquired, y=total_works, fill=Department)) + 
   geom_area(position="stack") + 
@@ -39,8 +41,8 @@ p1 <- artworks.tally %>%
   scale_x_continuous(breaks=round(seq(min(artworks$year_acquired), 
                                       max(artworks$year_acquired), 
                                       length.out = 5))) +
-  labs(title = "MoMA's cummulative works by time", 
+  labs(title = "MoMA's cumulative works by time", 
        y = "Total works",
        x = "Year acquired")
 print(p1)
-ggsave("cummulative_works.png")
+ggsave("cumulative_works.png")
