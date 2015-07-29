@@ -16,7 +16,9 @@ getTableFromWeb <- function(url, xpath) {
   return(tableList[[1]])
 }
 
-# Countries and their adjectival forms
+
+# Countries and their adjectival forms ------------------------------------
+
 countriesToAdjectivals <- getTableFromWeb("https://en.wikipedia.org/wiki/List_of_adjectival_and_demonymic_forms_for_countries_and_nations",
                                           "//*[@id=\"mw-content-text\"]/table[1]")
 
@@ -40,7 +42,8 @@ for (i in seq_len(max(vapply(splitAdjectivals, length, 1)))) {
 write.csv(countriesToAdjectivals, "countries_to_adjectivals.csv", row.names = FALSE)
 
 
-# Countries to languages
+# Countries to languages --------------------------------------------------
+
 countriesToLanguages <- getTableFromWeb("http://www.infoplease.com/ipa/A0855611.html",
                                         "//*[@id=\"Pg\"]/table[1]")
 
@@ -50,7 +53,9 @@ countriesToLanguages <- countriesToLanguages %>%
          first_language = sub(" and .*", "", first_language))
 write.csv(countriesToLanguages, "countries_to_languages.csv", row.names = FALSE)
 
-# Languages to ISO-639-1 codes
+
+# Languages to ISO-639-1 codes --------------------------------------------
+
 languagesToCodes <- getTableFromWeb("https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes",
                                     "//*[@id=\"mw-content-text\"]/table[2]")
 

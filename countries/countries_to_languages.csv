@@ -1,20 +1,20 @@
 country_name,languages,first_language
-Afghanistan,"Dari Persian, Pashtu (both official), other Turkic and minor languages",Dari Persian
+Afghanistan,"Dari Persian, Pashtu (both official), other Turkic and minor languages",Pashto
 Albania,"Albanian (Tosk is the official dialect), Greek",Albanian
 Algeria,"Arabic (official), French, Berber dialects",Arabic
-Andorra,"Catalán (official), French, Castilian, Portuguese",Catalán
+Andorra,"Catalán (official), French, Castilian, Portuguese",Catalan
 Angola,"Portuguese (official), Bantu and other African languages",Portuguese
 Antigua and Barbuda,"English (official), local dialects",English
 Argentina,"Spanish (official), English, Italian, German, French",Spanish
 Armenia,"Armenian 98%, Yezidi, Russian",Armenian
 Australia,"English 79%, native and other languages",English
 Austria,"German (official nationwide); Slovene, Croatian, Hungarian (each official in one region)",German
-Azerbaijan,"Azerbaijani Turkic 89%, Russian 3%, Armenian 2%, other 6% (1995 est.)",Azerbaijani Turkic
-Bahamas,"English (official), Creole (among Haitian immigrants)",English
+Azerbaijan,"Azerbaijani Turkic 89%, Russian 3%, Armenian 2%, other 6% (1995 est.)",Azerbaijani
+The Bahamas,"English (official), Creole (among Haitian immigrants)",English
 Bahrain,"Arabic, English, Farsi, Urdu",Arabic
 Bangladesh,"Bangla (official), English",Bangla
 Barbados,English,English
-Belarus,"Belorussian (White Russian), Russian, other",Belorussian
+Belarus,"Belorussian (White Russian), Russian, other",Belarusian
 Belgium,"Dutch (Flemish) 60%, French 40%, German less than 1% (all official)",Dutch
 Belize,"English (official), Spanish, Mayan, Garifuna (Carib), Creole",English
 Benin,"French (official), Fon, Yoruba, tribal languages",French
@@ -25,7 +25,7 @@ Botswana,"English 2% (official), Setswana 78%, Kalanga 8%, Sekgalagadi 3%, other
 Brazil,"Portuguese (official), Spanish, English, French",Portuguese
 Brunei,"Malay (official), English, Chinese",Malay
 Bulgaria,"Bulgarian 85%, Turkish 10%, Roma 4%",Bulgarian
-Burkina Faso,French (official); native African (Sudanic) languages 90%,French
+Burkina Fasoa,French (official); native African (Sudanic) languages 90%,French
 Burundi,"Kirundi and French (official), Swahili",Kirundi
 Cambodia,"Khmer 95% (official), French, English",Khmer
 Cameroon,"French, English (both official); 24 major African language groups",French
@@ -53,6 +53,7 @@ East Timor,"Tetum, Portuguese (official); Bahasa Indonesia, English; other indig
 Ecuador,"Spanish (official), Quechua, other Amerindian languages",Spanish
 Egypt,"Arabic (official), English and French widely understood by educated classes",Arabic
 El Salvador,"Spanish, Nahua (among some Amerindians)",Spanish
+England,English,English
 Equatorial Guinea,"Spanish, French (both official); pidgin English, Fang, Bubi, Ibo",Spanish
 Eritrea,"Afar, Arabic, Tigre and Kunama, Tigrinya, other Cushitic languages",Afar
 Estonia,"Estonian 67% (official), Russian 30%, other (2000)",Estonian
@@ -65,18 +66,21 @@ Gambia,"English (official), Mandinka, Wolof, Fula, other indigenous",English
 Georgia,"Georgian 71% (official), Russian 9%, Armenian 7%, Azerbaijani 6%, other 7% (Abkhaz is the official language in Abkhazia)",Georgian
 Germany,German,German
 Ghana,"English (official), African languages (including Akan, Moshi-Dagomba, Ewe, and Ga)",English
+Great Britain,English,English
 Greece,"Greek 99% (official), English, French",Greek
+Greenland,Danish,Danish
 Grenada,"English (official), French patois",English
 Guatemala,"Spanish 60%, Amerindian languages 40% (23 officially recognized Amerindian languages, including Quiche, Cakchiquel, Kekchi, Mam, Garifuna, and Xinca)",Spanish
 Guinea,"French (official), native tongues (Malinké, Susu, Fulani)",French
 Guinea-Bissau,"Portuguese (official), Criolo, African languages",Portuguese
 Guyana,"English (official), Amerindian dialects, Creole, Hindi, Urdu",English
-Haiti,Creole and French (both official),Hatian Creole
+Haiti,Creole and French (both official),Haitian Creole
 Honduras,"Spanish (official), Amerindian dialects; English widely spoken in business",Spanish
-Hungary,"Magyar (Hungarian) 94%, other 6%",Magyar
+Hong Kong,Chinese (Cantonese),Chinese
+Hungary,"Magyar (Hungarian) 94%, other 6%",Hungarian
 Iceland,"Icelandic, English, Nordic languages, German widely spoken",Icelandic
 India,"Hindi 30%, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi (all official); Hindi/Urdu; 1,600+ dialects",Hindi
-Indonesia,"Bahasa Indonesia (official), English, Dutch, Javanese, and more than 580 other languages and dialects",Bahasa Indonesia
+Indonesia,"Bahasa Indonesia (official), English, Dutch, Javanese, and more than 580 other languages and dialects",Indonesian
 Iran,"Persian and Persian dialects 58%, Turkic and Turkic dialects 26%, Kurdish 9%, Luri 2%, Balochi 1%, Arabic 1%, Turkish 1%, other 2%",Persian
 Iraq,"Arabic (official), Kurdish (official in Kurdish regions), Assyrian, Armenian",Arabic
 Ireland,"English, Irish (Gaelic) (both official)",English
@@ -85,9 +89,11 @@ Italy,"Italian (official); German-, French-, and Slovene-speaking minorities",It
 Jamaica,"English, Jamaican Creole",English
 Japan,Japanese,Japanese
 Jordan,"Arabic (official), English",Arabic
-Kazakhstan,"Kazak (Qazaq, state language) 64%; Russian (official, used in everyday business) 95% (2001 est.)",Kazak
+Kazakhstan,"Kazak (Qazaq, state language) 64%; Russian (official, used in everyday business) 95% (2001 est.)",Kazakh
 Kenya,"English (official), Swahili (national), and numerous indigenous languages",English
 Kiribati,"English (official), I-Kiribati (Gilbertese)",English
+Democratic People's Republic of Korea,,Korean
+Republic of Korea,,Korean
 "Korea, North",Korean,Korean
 "Korea, South","Korean, English widely taught",Korean
 Kosovo,"Albanian (official), Serbian (official), Bosnian, Turkish, Roma",Albanian
@@ -101,12 +107,12 @@ Liberia,"English 20% (official), some 20 ethnic-group languages",English
 Libya,"Arabic, Italian, and English widely understood in major cities",Arabic
 Liechtenstein,"German (official), Alemannic dialect",German
 Lithuania,"Lithuanian 82% (official), Russian 8%, Polish 6% (2001)",Lithuanian
-Luxembourg,"Luxermbourgish (national) French, German (both administrative)",Luxermbourgish
+Luxembourg,"Luxermbourgish (national) French, German (both administrative)",Luxembourgish
 Macedonia,"Macedonian 67%, Albanian 25% (both official); Turkish 4%, Roma 2%, Serbian 1% (2002)",Macedonian
 Madagascar,Malagasy and French (both official),Malagasy
 Malawi,"Chichewa 57.2% (official), Chinyanja 12.8%, Chiyao 10.1%, Chitumbuka 9.5%, Chisena 2.7%, Chilomwe 2.4%, Chitonga 1.7%, other 3.6% (1998)",Chichewa
-Malaysia,"Bahasa Melayu (Malay, official), English, Chinese dialects (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai; several indigenous languages (including Iban, Kadazan) in East Malaysia",Bahasa Melayu
-Maldives,Maldivian Dhivehi (official); English spoken by most government officials,Maldivian Dhivehi
+Malaysia,"Bahasa Melayu (Malay, official), English, Chinese dialects (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai; several indigenous languages (including Iban, Kadazan) in East Malaysia",Malay
+Maldives,Maldivian Dhivehi (official); English spoken by most government officials,Divehi
 Mali,"French (official), Bambara 80%, numerous African languages",French
 Malta,Maltese and English (both official),Maltese
 Marshall Islands,"Marshallese 98% (two major dialects from the Malayo-Polynesian family), English widely spoken as a second language (both official); Japanese",Marshallese
@@ -114,7 +120,7 @@ Mauritania,"Hassaniya Arabic (official), Pulaar, Soninke, French, Wolof",Hassani
 Mauritius,"English less than 1% (official), Creole 81%, Bojpoori 12%, French 3% (2000)",Creole
 Mexico,"Spanish, various Mayan, Nahuatl, and other regional indigenous languages",Spanish
 Micronesia,"English (official, common), Chukese, Pohnpeian, Yapase, Kosrean, Ulithian, Woleaian, Nukuoro, Kapingamarangi",English
-Moldova,"Moldovan (official; virtually the same as Romanian), Russian, Gagauz (a Turkish dialect)",Moldovan
+Moldova,"Moldovan (official; virtually the same as Romanian), Russian, Gagauz (a Turkish dialect)",Romanian
 Monaco,"French (official), English, Italian, Monégasque",French
 Mongolia,"Mongolian, 90%; also Turkic and Russian (1999)",Mongolian
 Montenegro,Serbian/Montenegrin (Ijekavian dialect—official),Serbian
@@ -122,32 +128,36 @@ Morocco,"Arabic (official), Berber dialects, French often used for business, gov
 Mozambique,"Portuguese 9% (official; second language of 27%), Emakhuwa 26%, Xichangana 11%, Elomwe 8%, Cisena 7%, Echuwabo 6%, other Mozambican languages 32% (1997)",Portuguese
 Myanmar,"Burmese, minority languages",Burmese
 Namibia,"English 7% (official), Afrikaans is common language of most of the population and of about 60% of the white population, German 32%; indigenous languages: Oshivambo, Herero, Nama",English
-Nauru,"Nauruan (official), English",Nauruan
+Nauru,"Nauruan (official), English",Nauru
 Nepal,"Nepali 48% (official), Maithali 12%, Bhojpuri 7%, Tharu 6%, Tamang 5%, others. English spoken by many in government and business (2001)",Nepali
 Netherlands,"Dutch, Frisian (both official)",Dutch
 New Zealand,"English, Maori (both official)",English
 Nicaragua,Spanish 98% (official); English and indigenous languages on Atlantic coast (1995),Spanish
 Niger,"French (official), Hausa, Djerma",French
 Nigeria,"English (official), Hausa, Yoruba, Ibo, Fulani, and more than 200 others",English
+Northern Ireland,"English, Irish",English
 Norway,"Bokmål Norwegian, Nynorsk Norwegian (both official); small Sami- and Finnish-speaking minorities (Sami is official in six municipalities)",Bokmål Norwegian
 Oman,"Arabic (official), English, Baluchi, Urdu, Indian dialects",Arabic
 Pakistan,"Urdu 8%, English (both official); Punjabi 48%, Sindhi 12%, Siraiki (a Punjabi variant) 10%, Pashtu 8%, Balochi 3%, Hindko 2%, Brahui 1%, Burushaski, and others 8%",Urdu
 Palau,"Palauan 64.7%, English 9.4%, Sonsoralese, Tobi, Angaur (each official on some islands), Filipino 13.5%, Chinese 5.7%, Carolinian 1.5%, Japanese 1.5%, other Asian 2.3%, other languages 1.5% (2000)",Palauan
-Palestinian State (proposed),"Arabic, Hebrew, English",Arabic
+Palestine,"Arabic, Hebrew, English",Arabic
 Panama,"Spanish (official), English 14%, many bilingual",Spanish
 Papua New Guinea,"Tok Pisin (Melanesian Pidgin, the lingua franca), Hiri Motu (in Papua region), English 1%–2%; 715 indigenous languages",Tok Pisin
 Paraguay,"Spanish, Guaraní (both official)",Spanish
 Peru,"Spanish, Quéchua (both official); Aymara; many minor Amazonian languages",Spanish
-Philippines,"Filipino (based on Tagalog), English (both official); eight major dialects:  Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinense",Filipino
+Philippines,"Filipino (based on Tagalog), English (both official); eight major dialects:  Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinense",Tagalog
 Poland,Polish 98% (2002),Polish
 Portugal,"Portuguese (official), Mirandese (official, but locally used)",Portuguese
+Puerto Rico,,Spanish
 Qatar,Arabic (official); English a common second language,Arabic
 Romania,"Romanian (official), Hungarian, German",Romanian
 Russia,"Russian, others",Russian
 Rwanda,"Kinyarwanda, French, and English (all official); Kiswahili in commercial centers",Kinyarwanda
+Scotland,"English, Scots, Scottish Gaelic",English
 St. Kitts and Nevis,English,English
 St. Lucia,"English (official), French patois",English
 St. Vincent and the Grenadines,"English, French patois",English
+American Samoa,"Samoan, English",Samoan
 Samoa,"Samoan, English",Samoan
 San Marino,Italian,Italian
 São Tomé and Príncipe,Portuguese (official),Portuguese
@@ -156,12 +166,12 @@ Senegal,"French (official); Wolof, Pulaar, Jola, Mandinka",French
 Serbia,"Serbian (official); Romanian, Hungarian, Slovak, and Croatian (all official in Vojvodina); Albanian (official in Kosovo)",Serbian
 Seychelles,"Seselwa Creole 92%, English 5%, French (all official) (2002)",Seselwa Creole
 Sierra Leone,"English (official), Mende (southern vernacular), Temne (northern vernacular), Krio (lingua franca)",English
-Singapore,"Mandarin 35%, English 23%, Malay 14.1%, Hokkien 11.4%, Cantonese 5.7%, Teochew 4.9%, Tamil 3.2%, other Chinese dialects 1.8%, other 0.9% (2000)",Mandarin
+Singapore,"Mandarin 35%, English 23%, Malay 14.1%, Hokkien 11.4%, Cantonese 5.7%, Teochew 4.9%, Tamil 3.2%, other Chinese dialects 1.8%, other 0.9% (2000)",Chinese
 Slovakia,"Slovak 84% (official), Hungarian 11%, Roma 2%, Ukrainian 1% (2001)",Slovak
-Slovenia,"Slovenian 91%, Serbo-Croatian 5% (2002)",Slovenian
+Slovenia,"Slovenian 91%, Serbo-Croatian 5% (2002)",Slovene
 Solomon Islands,"English 1%–2% (official), Melanesian pidgin (lingua franca), 120 indigenous languages",English
 Somalia,"Somali (official), Arabic, English, Italian",Somali
-South Africa,"IsiZulu 23.8%, IsiXhosa 17.6%, Afrikaans 13.3%, Sepedi 9.4%, English 8.2%, Setswana 8.2%, Sesotho 7.9%, Xitsonga 4.4%, other 7.2%",IsiZulu
+South Africa,"IsiZulu 23.8%, IsiXhosa 17.6%, Afrikaans 13.3%, Sepedi 9.4%, English 8.2%, Setswana 8.2%, Sesotho 7.9%, Xitsonga 4.4%, other 7.2%",Zulu
 South Sudan,"English (official), Arabic (includes Juba and Sudanese variants) (official), regional languages include Dinka, Nuer, Bari, Zande, Shilluk",English
 Spain,"Castilian Spanish 74% (official nationwide); Catalan 17%, Galician 7%, Basque 2% (each official regionally)",Spanish
 Sri Lanka,"Sinhala 74% (official and national), Tamil 18% (national), other 8%; English is commonly used in government and spoken competently by about 10%",Sinhala
@@ -176,7 +186,7 @@ Tajikistan,"Tajik (official), Russian widely used in government and business",Ta
 Tanzania,"Swahili, English (both official); Arabic; many local languages",Swahili
 Thailand,"Thai (Siamese), English (secondary language of the elite), ethnic and regional dialects",Thai
 Togo,"French (official, commerce); Ewé, Mina (south); Kabyé, Dagomba (north); and many dialects",French
-Tonga,"Tongan (an Austronesian language), English",Tongan
+Tonga,"Tongan (an Austronesian language), English",Tonga
 Trinidad and Tobago,"English (official), Hindi, French, Spanish, Chinese",English
 Tunisia,"Arabic (official, commerce), French (commerce)",Arabic
 Turkey,"Turkish (official), Kurdish, Dimli, Azeri, Kabardian",Turkish
@@ -193,7 +203,8 @@ Vanuatu,"Bislama 23% (a Melanesian pidgin English), English 2%, French 1% (all 3
 Vatican City (Holy See),"Italian, Latin, French, various other languages",Italian
 Venezuela,"Spanish (official), numerous indigenous dialects",Spanish
 Vietnam,"Vietnamese (official); English (increasingly favored as a second language); some French, Chinese, Khmer; mountain area languages (Mon-Khmer and Malayo-Polynesian)",Vietnamese
-Western Sahara (proposed state),"Hassaniya Arabic, Moroccan Arabic",Hassaniya Arabic
+Wales,"Welsh, English",Welsh
+Western Sahara,"Hassaniya Arabic, Moroccan Arabic",Hassaniya Arabic
 Yemen,Arabic,Arabic
 Zambia,"English (official); major vernaculars: Bemba, Kaonda, Lozi, Lunda, Luvale, Nyanja, Tonga; about 70 other indigenous languages",English
 Zimbabwe,"English (official), Shona, Ndebele (Sindebele), numerous minor tribal dialects",English

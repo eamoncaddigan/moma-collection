@@ -1,4 +1,4 @@
-language_name,iso639,language_name__1,language_name__2,language_name__3,language_name__4
+language_name,iso639,language_name_1,language_name_2,language_name_3,language_name_4
 Abkhaz,ab,Abkhaz,NA,NA,NA
 Afar,aa,Afar,NA,NA,NA
 Afrikaans,af,Afrikaans,NA,NA,NA
@@ -54,7 +54,7 @@ German,de,German,NA,NA,NA
 Greek (modern),el,Greek,NA,NA,NA
 Guaraní,gn,Guaraní,NA,NA,NA
 Gujarati,gu,Gujarati,NA,NA,NA
-"Haitian, Haitian Creole",ht,Haitian,Creole,NA,NA
+"Haitian, Haitian Creole",ht,Haitian,Haitian Creole,NA,NA
 Hausa,ha,Hausa,NA,NA,NA
 Hebrew (modern),he,Hebrew,NA,NA,NA
 Herero,hz,Herero,NA,NA,NA
@@ -112,8 +112,8 @@ Nauru,na,Nauru,NA,NA,NA
 Northern Ndebele,nd,Northern Ndebele,NA,NA,NA
 Nepali,ne,Nepali,NA,NA,NA
 Ndonga,ng,Ndonga,NA,NA,NA
-Norwegian Bokmål,nb,Norwegian Bokmål,NA,NA,NA
-Norwegian Nynorsk,nn,Norwegian Nynorsk,NA,NA,NA
+Norwegian Bokmål,nb,Norwegian Bokmål,Bokmål Norwegian,NA,NA
+Norwegian Nynorsk,nn,Norwegian Nynorsk,Norwegian Nynorsk,NA,NA
 Norwegian,no,Norwegian,NA,NA,NA
 Nuosu,ii,Nuosu,NA,NA,NA
 Southern Ndebele,nr,Southern Ndebele,NA,NA,NA
@@ -125,7 +125,7 @@ Oriya,or,Oriya,NA,NA,NA
 "Ossetian, Ossetic",os,Ossetian,Ossetic,NA,NA
 "Panjabi, Punjabi",pa,Panjabi,Punjabi,NA,NA
 Pali,pi,Pali,NA,NA,NA
-Persian (Farsi),fa,Persian (Farsi),NA,NA,NA
+Persian (Farsi),fa,Persian,Farsi,NA,NA
 Polish,pl,Polish,NA,NA,NA
 "Pashto, Pushto",ps,Pashto,Pushto,NA,NA
 Portuguese,pt,Portuguese,NA,NA,NA
@@ -158,11 +158,11 @@ Telugu,te,Telugu,NA,NA,NA
 Tajik,tg,Tajik,NA,NA,NA
 Thai,th,Thai,NA,NA,NA
 Tigrinya,ti,Tigrinya,NA,NA,NA
-"Tibetan Standard, Tibetan, Central",bo,Tibetan Standard,Tibetan,Central,NA
+"Tibetan Standard, Tibetan, Central",bo,Tibetan Standard,Tibetan,Central Tibetan,NA
 Turkmen,tk,Turkmen,NA,NA,NA
 Tagalog,tl,Tagalog,NA,NA,NA
 Tswana,tn,Tswana,NA,NA,NA
-Tonga (Tonga Islands),to,Tonga (Tonga Islands),NA,NA,NA
+Tonga (Tonga Islands),to,Tonga,NA,NA,NA
 Turkish,tr,Turkish,NA,NA,NA
 Tsonga,ts,Tsonga,NA,NA,NA
 Tatar,tt,Tatar,NA,NA,NA
