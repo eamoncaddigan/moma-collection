@@ -48,7 +48,7 @@ Central African Republic,Central African,Central African Republic,Central Africa
 Chad,Chadian,Chad,Chadian,NA,NA,NA
 Chile,Chilean,Chile,Chilean,NA,NA,NA
 "China, People's Republic of",Chinese,China,Chinese,NA,NA,NA
-"China, Republic of","See Taiwan, below",Taiwan,Chinese,Taiwanese,NA,NA
+"China, Republic of","See Taiwan, below",Taiwan,,,NA,NA
 Christmas Island,Christmas Island,Christmas Island,Christmas Island,NA,NA,NA
 Cocos (Keeling) Islands,Cocos Island,Cocos (Keeling) Islands,Cocos Island,NA,NA,NA
 Colombia,Colombian,Colombia,Colombian,NA,NA,NA
@@ -65,13 +65,12 @@ Cyprus,Cypriot,Cyprus,Cypriot,NA,NA,NA
 Czech Republic,Czech,Czech Republic,Czech,NA,NA,NA
 Denmark,Danish,Denmark,Danish,NA,NA,NA
 Djibouti,Djiboutian,Djibouti,Djiboutian,NA,NA,NA
-Dominica,Dominican,Dominica,Dominican,NA,NA,NA
 Dominican Republic,Dominican,Dominican Republic,Dominican,NA,NA,NA
 East Timor,Timorese,East Timor,Timorese,NA,NA,NA
 Ecuador,Ecuadorian,Ecuador,Ecuadorian,NA,NA,NA
 Egypt,Egyptian,Egypt,Egyptian,NA,NA,NA
 El Salvador,Salvadoran,El Salvador,Salvadoran,NA,NA,NA
-England,"English, British",England,English,British,NA,NA
+England,"English, British",England,English,,NA,NA
 Equatorial Guinea,"Equatorial Guinean, Equatoguinean",Equatorial Guinea,Equatorial Guinean,Equatoguinean,NA,NA
 Eritrea,Eritrean,Eritrea,Eritrean,NA,NA,NA
 Estonia,Estonian,Estonia,Estonian,NA,NA,NA
@@ -91,7 +90,7 @@ Georgia,Georgian,Georgia,Georgian,NA,NA,NA
 Germany,German,Germany,German,NA,NA,NA
 Ghana,Ghanaian,Ghana,Ghanaian,NA,NA,NA
 Gibraltar,Gibraltar,Gibraltar,Gibraltar,NA,NA,NA
-Great Britain,"British, UK",Great Britain,British,UK,NA,NA
+Great Britain,"British, UK",Great Britain,British,,NA,NA
 Greece,"Greek, Hellenic",Greece,Greek,Hellenic,NA,NA
 Greenland,Greenlandic,Greenland,Greenlandic,NA,NA,NA
 Grenada,Grenadian,Grenada,Grenadian,NA,NA,NA
@@ -105,7 +104,7 @@ Guyana,Guyanese,Guyana,Guyanese,NA,NA,NA
 Haiti,Haitian,Haiti,Haitian,NA,NA,NA
 Heard Island and McDonald Islands,"Heard Island, McDonald Islands",Heard Island and McDonald Islands,Heard Island,McDonald Islands,NA,NA
 Honduras,Honduran,Honduras,Honduran,NA,NA,NA
-Hong Kong,"Hong Kong, Chinese",Hong Kong,Hong Kong,Chinese,NA,NA
+Hong Kong,"Hong Kong, Chinese",Hong Kong,Hong Kong,,NA,NA
 Hungary,"Hungarian, Magyar",Hungary,Hungarian,Magyar,NA,NA
 Iceland,Icelandic,Iceland,Icelandic,NA,NA,NA
 India,Indian,India,Indian,NA,NA,NA
@@ -126,7 +125,7 @@ Kazakhstan,"Kazakhstani, Kazakh",Kazakhstan,Kazakhstani,Kazakh,NA,NA
 Kenya,Kenyan,Kenya,Kenyan,NA,NA,NA
 Kiribati,I-Kiribati,Kiribati,I-Kiribati,NA,NA,NA
 "Korea, Democratic People's Republic of",North Korean,Democratic People's Republic of Korea,North Korean,NA,NA,NA
-"Korea, Republic of",South Korean,Republic of Korea,South Korean,NA,NA,NA
+"Korea, Republic of",South Korean,Republic of Korea,South Korean,Korean,NA,NA
 Kosovo,"Kosovar, Kosovan",Kosovo,Kosovar,Kosovan,NA,NA
 Kuwait,Kuwaiti,Kuwait,Kuwaiti,NA,NA,NA
 Kyrgyzstan,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",Kyrgyzstan,Kyrgyzstani,Kyrgyz,Kirgiz,Kirghiz
@@ -139,7 +138,7 @@ Libya,Libyan,Libya,Libyan,NA,NA,NA
 Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,NA,NA,NA
 Lithuania,Lithuanian,Lithuania,Lithuanian,NA,NA,NA
 Luxembourg,"Luxembourg, Luxembourgish",Luxembourg,Luxembourg,Luxembourgish,NA,NA
-Macau,"Macanese, Chinese",Macau,Macanese,Chinese,NA,NA
+Macau,"Macanese, Chinese",Macau,Macanese,,NA,NA
 "Macedonia, Republic of",Macedonian,Republic of Macedonia,Macedonian,NA,NA,NA
 Madagascar,Malagasy,Madagascar,Malagasy,NA,NA,NA
 Malawi,Malawian,Malawi,Malawian,NA,NA,NA
@@ -167,13 +166,13 @@ Nauru,Nauruan,Nauru,Nauruan,NA,NA,NA
 Nepal,"Nepali, Nepalese",Nepal,Nepali,Nepalese,NA,NA
 Netherlands,"Dutch, Netherlandic",Netherlands,Dutch,Netherlandic,NA,NA
 New Caledonia,New Caledonian,New Caledonia,New Caledonian,NA,NA,NA
-New Zealand,"New Zealand, NZ",New Zealand,New Zealand,NZ,NA,NA
+New Zealand,"New Zealand, NZ",New Zealand,New Zealand,New Zealander,Kiwi,NA
 Nicaragua,Nicaraguan,Nicaragua,Nicaraguan,NA,NA,NA
 Niger,Nigerien,Niger,Nigerien,NA,NA,NA
 Nigeria,Nigerian,Nigeria,Nigerian,NA,NA,NA
 Niue,Niuean,Niue,Niuean,NA,NA,NA
 Norfolk Island,Norfolk Island,Norfolk Island,Norfolk Island,NA,NA,NA
-Northern Ireland,"Northern Irish, British",Northern Ireland,Northern Irish,British,NA,NA
+Northern Ireland,"Northern Irish, British",Northern Ireland,Northern Irish,,NA,NA
 Northern Mariana Islands,Northern Marianan,Northern Mariana Islands,Northern Marianan,NA,NA,NA
 Norway,Norwegian,Norway,Norwegian,NA,NA,NA
 Oman,Omani,Oman,Omani,NA,NA,NA
@@ -206,7 +205,7 @@ Samoa,Samoan,Samoa,Samoan,NA,NA,NA
 San Marino,Sammarinese,San Marino,Sammarinese,NA,NA,NA
 São Tomé and Príncipe,São Toméan,São Tomé and Príncipe,São Toméan,NA,NA,NA
 Saudi Arabia,"Saudi, Saudi Arabian",Saudi Arabia,Saudi,Saudi Arabian,NA,NA
-Scotland,"Scots, Scottish, British",Scotland,Scots,Scottish,British,NA
+Scotland,"Scots, Scottish, British",Scotland,Scots,Scottish,,NA
 Senegal,Senegalese,Senegal,Senegalese,NA,NA,NA
 Serbia,Serbian,Serbia,Serbian,NA,NA,NA
 Seychelles,Seychellois,Seychelles,Seychellois,NA,NA,NA
@@ -231,7 +230,7 @@ Swaziland,Swazi,Swaziland,Swazi,NA,NA,NA
 Sweden,Swedish,Sweden,Swedish,NA,NA,NA
 Switzerland,Swiss,Switzerland,Swiss,NA,NA,NA
 Syria,Syrian,Syria,Syrian,NA,NA,NA
-Taiwan,"Chinese, Taiwanese",Taiwan,Chinese,Taiwanese,NA,NA
+Taiwan,"Chinese, Taiwanese",Taiwan,,Taiwanese,NA,NA
 Tajikistan,Tajikistani,Tajikistan,Tajikistani,NA,NA,NA
 Tanzania,Tanzanian,Tanzania,Tanzanian,NA,NA,NA
 Thailand,Thai,Thailand,Thai,NA,NA,NA
@@ -248,7 +247,7 @@ Tuvalu,Tuvaluan,Tuvalu,Tuvaluan,NA,NA,NA
 Uganda,Ugandan,Uganda,Ugandan,NA,NA,NA
 Ukraine,Ukrainian,Ukraine,Ukrainian,NA,NA,NA
 United Arab Emirates,"Emirati, Emirian, Emiri",United Arab Emirates,Emirati,Emirian,Emiri,NA
-United Kingdom,"British, UK",United Kingdom,British,UK,NA,NA
+United Kingdom,"British, UK",United Kingdom,,UK,NA,NA
 United States,"United States, US, American",United States,United States,US,American,NA
 Uruguay,Uruguayan,Uruguay,Uruguayan,NA,NA,NA
 Uzbekistan,"Uzbekistani, Uzbek",Uzbekistan,Uzbekistani,Uzbek,NA,NA
@@ -258,7 +257,7 @@ Venezuela,Venezuelan,Venezuela,Venezuelan,NA,NA,NA
 Vietnam,Vietnamese,Vietnam,Vietnamese,NA,NA,NA
 "Virgin Islands, British",British Virgin Island,Virgin British Islands,British Virgin Island,NA,NA,NA
 "Virgin Islands, United States",U.S. Virgin Island,Virgin United States Islands,U.S. Virgin Island,NA,NA,NA
-Wales,"Welsh, British",Wales,Welsh,British,NA,NA
+Wales,"Welsh, British",Wales,Welsh,,NA,NA
 Wallis and Futuna,"Wallis and Futuna, Wallisian, Futunan",Wallis and Futuna,Wallis and Futuna,Wallisian,Futunan,NA
 Western Sahara,"Sahrawi, Sahrawian, Sahraouian",Western Sahara,Sahrawi,Sahrawian,Sahraouian,NA
 Yemen,Yemeni,Yemen,Yemeni,NA,NA,NA

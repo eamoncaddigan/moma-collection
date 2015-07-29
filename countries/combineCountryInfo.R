@@ -38,3 +38,14 @@ countriesToAdjectivals <- left_join(countriesToAdjectivals, countriesToLanguages
   # This only loses 75 countries. Not terrible
   filter(!is.na(iso639))
 
+
+# These will be the DFs with which I interact -----------------------------
+
+nationalityToCountry <- countriesToAdjectivals %>% 
+  select(natural_country_name, adjectival_1:adjectival_4) %>% 
+  gather("adjectival_number", "adjectival", adjectival_1:adjectival_4) %>% 
+  filter(!is.na(adjectival)) %>% 
+  select(nationality = adjectival, country = natural_country_name)
+
+countryToLanguage <- countriesToAdjectivals %>%
+  select(country = natural_country_name, iso639)
