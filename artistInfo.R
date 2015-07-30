@@ -32,27 +32,23 @@ artists <- artists %>%
          nationality = sub("^[^[:alpha:]]([[:alpha:][:space:]]*).*", "\\1", ArtistBio),
          nationality = sub("\\W*$", "", nationality),
          nationality = sub(" and .*", "", nationality),
+         nationality = ifelse(!is.na(birth_nation), birth_nation, nationality),
          first_name = sub("([[:alpha:]]*).*", "\\1", Artist))
 
 
-# Sort out the country and language info (we only lose a few artists) -----
+# Add country codes to each artist ----------------------------------------
 
-setwd("countries")
-source("combineCountryInfo.R")
-setwd("..")
+nationalitiesToCodes <- read.csv("countries/nationalities_codes.csv", stringsAsFactors = FALSE)
 artists <- artists %>%
-  # Use a join to convert nationalities to countries
-  left_join(nationalityToCountry, by = "nationality") %>%
-  # If the artist had a stated birth nation, use that
-  mutate(country = ifelse(!is.na(birth_nation), birth_nation, country)) %>%
-  # Add the language info
-  left_join(countryToLanguage, by = "country") %>%
-  # Get rid of anybody who slipped through the cracks
-  filter(nationality != "", !is.na(iso639), !is.na(country))
+  # Add the country code if there is one
+  left_join(nationalitiesToCodes, by = "nationality")
 
-# Find unique first name / (probably) language pairs for genderizing
+# Find unique first name / country code pairs for genderizing
 artist.firstNames <- artists %>%
-  select(first_name, iso639) %>%
-  distinct()
+  select(first_name, iso3166) %>%
+  distinct() %>%
+  arrange(iso3166, first_name) %>%
+  # NAs won't work if we go to CSV and read them back in!
+  mutate(iso3166 = ifelse(is.na(iso3166), "none", iso3166))
 print(nrow(artist.firstNames))
 write.csv(artist.firstNames, "names_to_genderize.csv", row.names = FALSE)
