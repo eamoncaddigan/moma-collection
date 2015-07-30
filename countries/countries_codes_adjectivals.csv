@@ -1,0 +1,257 @@
+natural_country_name,iso3166,country_name,adjectivals,adjectival_1,adjectival_2,adjectival_3,adjectival_4
+Andorra,AD,Andorra,Andorran,Andorran,NA,NA,NA
+United Arab Emirates,AE,United Arab Emirates,"Emirati, Emirian, Emiri",Emirati,Emirian,Emiri,NA
+Afghanistan,AF,Afghanistan,Afghan,Afghan,NA,NA,NA
+Antigua and Barbuda,AG,Antigua and Barbuda,"Antiguan, Barbudan",Antiguan,Barbudan,NA,NA
+Anguilla,AI,Anguilla,Anguillan,Anguillan,NA,NA,NA
+Albania,AL,Albania,Albanian,Albanian,NA,NA,NA
+Armenia,AM,Armenia,Armenian,Armenian,NA,NA,NA
+Angola,AO,Angola,Angolan,Angolan,NA,NA,NA
+Antarctica,AQ,Antarctica,Antarctic,Antarctic,NA,NA,NA
+Argentina,AR,Argentina,Argentine,Argentine,NA,NA,NA
+American Samoa,AS,American Samoa,American Samoan,American Samoan,NA,NA,NA
+Austria,AT,Austria,Austrian,Austrian,NA,NA,NA
+Australia,AU,Australia,Australian,Australian,NA,NA,NA
+Aruba,AW,Aruba,Aruban,Aruban,NA,NA,NA
+Aland Islands,AX,Åland Islands,Åland Island,Åland Island,NA,NA,NA
+Azerbaijan,AZ,Azerbaijan,"Azerbaijani, Azeri",Azerbaijani,Azeri,NA,NA
+Bosnia and Herzegovina,BA,Bosnia and Herzegovina,"Bosnian, Herzegovinian",Bosnian,Herzegovinian,NA,NA
+Barbados,BB,Barbados,Barbadian,Barbadian,NA,NA,NA
+Bangladesh,BD,Bangladesh,Bangladeshi,Bangladeshi,NA,NA,NA
+Belgium,BE,Belgium,Belgian,Belgian,NA,NA,NA
+Burkina Faso,BF,Burkina Fasoa,Burkinabé,Burkinabé,NA,NA,NA
+Bulgaria,BG,Bulgaria,Bulgarian,Bulgarian,NA,NA,NA
+Bahrain,BH,Bahrain,Bahraini,Bahraini,NA,NA,NA
+Burundi,BI,Burundi,Burundian,Burundian,NA,NA,NA
+Benin,BJ,Benin,"Beninese, Beninois",Beninese,Beninois,NA,NA
+Saint Barthélemy,BL,Saint Barthélemy,Barthélemois,Barthélemois,NA,NA,NA
+Bermuda,BM,Bermuda,"Bermudian, Bermudan",Bermudian,Bermudan,NA,NA
+Brunei Darussalam,BN,Brunei,Bruneian,Bruneian,NA,NA,NA
+Bolivia,BO,Bolivia,Bolivian,Bolivian,NA,NA,NA
+Sint Eustatius and Saba Bonaire,BQ,Bonaire,Bonaire,Bonaire,NA,NA,NA
+Brazil,BR,Brazil,Brazilian,Brazilian,NA,NA,NA
+Bahamas,BS,"Bahamas, The",Bahamian,Bahamian,NA,NA,NA
+Bhutan,BT,Bhutan,Bhutanese,Bhutanese,NA,NA,NA
+Bouvet Island,BV,Bouvet Island,Bouvet Island,Bouvet Island,NA,NA,NA
+Botswana,BW,Botswana,"Motswana, Botswanan",Motswana,Botswanan,NA,NA
+Belarus,BY,Belarus,Belarusian,Belarusian,NA,NA,NA
+Belize,BZ,Belize,Belizean,Belizean,NA,NA,NA
+Canada,CA,Canada,Canadian,Canadian,NA,NA,NA
+Cocos (Keeling) Islands,CC,Cocos (Keeling) Islands,Cocos Island,Cocos Island,NA,NA,NA
+the Democratic Republic of the Congo,CD,"Congo, Democratic Republic of the",Congolese,Congolese,NA,NA,NA
+Central African Republic,CF,Central African Republic,Central African,Central African,NA,NA,NA
+Congo,CG,"Congo, Republic of the",NA,NA,NA,NA,NA
+Switzerland,CH,Switzerland,Swiss,Swiss,NA,NA,NA
+Côte d'Ivoire,CI,Côte d'Ivoire,Ivorian,Ivorian,NA,NA,NA
+Cook Islands,CK,Cook Islands,Cook Island,Cook Island,NA,NA,NA
+Chile,CL,Chile,Chilean,Chilean,NA,NA,NA
+Cameroon,CM,Cameroon,Cameroonian,Cameroonian,NA,NA,NA
+China,CN,"China, People's Republic of",Chinese,NA,NA,NA,NA
+Colombia,CO,Colombia,Colombian,Colombian,NA,NA,NA
+Costa Rica,CR,Costa Rica,Costa Rican,Costa Rican,NA,NA,NA
+Cuba,CU,Cuba,Cuban,Cuban,NA,NA,NA
+Cabo Verde,CV,Cabo Verde,Cabo Verdean,Cabo Verdean,NA,NA,NA
+Curaçao,CW,Curaçao,Curaçaoan,Curaçaoan,NA,NA,NA
+Christmas Island,CX,Christmas Island,Christmas Island,Christmas Island,NA,NA,NA
+Cyprus,CY,Cyprus,Cypriot,Cypriot,NA,NA,NA
+Czech Republic,CZ,Czech Republic,Czech,Czech,NA,NA,NA
+Germany,DE,Germany,German,German,NA,NA,NA
+Djibouti,DJ,Djibouti,Djiboutian,Djiboutian,NA,NA,NA
+Denmark,DK,Denmark,Danish,Danish,NA,NA,NA
+Dominica,DM,Dominica,Dominican,NA,NA,NA,NA
+Dominican Republic,DO,Dominican Republic,Dominican,Dominican,NA,NA,NA
+Algeria,DZ,Algeria,Algerian,Algerian,NA,NA,NA
+Ecuador,EC,Ecuador,Ecuadorian,Ecuadorian,NA,NA,NA
+Estonia,EE,Estonia,Estonian,Estonian,NA,NA,NA
+Egypt,EG,Egypt,Egyptian,Egyptian,NA,NA,NA
+Western Sahara,EH,Western Sahara,"Sahrawi, Sahrawian, Sahraouian",Sahrawi,Sahrawian,Sahraouian,NA
+Eritrea,ER,Eritrea,Eritrean,Eritrean,NA,NA,NA
+Spain,ES,Spain,Spanish,Spanish,NA,NA,NA
+Ethiopia,ET,Ethiopia,Ethiopian,Ethiopian,NA,NA,NA
+Finland,FI,Finland,Finnish,Finnish,NA,NA,NA
+Fiji,FJ,Fiji,Fijian,Fijian,NA,NA,NA
+Falkland Islands (Malvinas),FK,Falkland Islands,Falkland Island,Falkland Island,NA,NA,NA
+Federated States of Micronesia,FM,"Micronesia, Federated States of",Micronesian,Micronesian,NA,NA,NA
+Faroe Islands,FO,Faroe Islands,Faroese,Faroese,NA,NA,NA
+France,FR,France,French,French,NA,NA,NA
+Gabon,GA,Gabon,Gabonese,Gabonese,NA,NA,NA
+United Kingdom,GB,United Kingdom,"British, UK",UK,NA,NA,NA
+Grenada,GD,Grenada,Grenadian,Grenadian,NA,NA,NA
+Georgia,GE,Georgia,Georgian,Georgian,NA,NA,NA
+French Guiana,GF,French Guiana,French Guianese,French Guianese,NA,NA,NA
+Guernsey,GG,Guernsey,Channel Island,NA,NA,NA,NA
+Ghana,GH,Ghana,Ghanaian,Ghanaian,NA,NA,NA
+Gibraltar,GI,Gibraltar,Gibraltar,Gibraltar,NA,NA,NA
+Greenland,GL,Greenland,Greenlandic,Greenlandic,NA,NA,NA
+Gambia,GM,"Gambia, The",Gambian,Gambian,NA,NA,NA
+Guinea,GN,Guinea,Guinean,Guinean,NA,NA,NA
+Guadeloupe,GP,Guadeloupe,Guadeloupe,Guadeloupe,NA,NA,NA
+Equatorial Guinea,GQ,Equatorial Guinea,"Equatorial Guinean, Equatoguinean",Equatorial Guinean,Equatoguinean,NA,NA
+Greece,GR,Greece,"Greek, Hellenic",Greek,Hellenic,NA,NA
+South Georgia and the South Sandwich Islands,GS,South Georgia and the South Sandwich Islands,"South Georgia, South Sandwich Islands",South Georgia,South Sandwich Islands,NA,NA
+Guatemala,GT,Guatemala,Guatemalan,Guatemalan,NA,NA,NA
+Guam,GU,Guam,"Guamanian, Guambat",Guamanian,Guambat,NA,NA
+Guinea-Bissau,GW,Guinea-Bissau,Bissau-Guinean,Bissau-Guinean,NA,NA,NA
+Guyana,GY,Guyana,Guyanese,Guyanese,NA,NA,NA
+Hong Kong,HK,Hong Kong,"Hong Kong, Chinese",Hong Kong,NA,NA,NA
+Heard Island and McDonald Islands,HM,Heard Island and McDonald Islands,"Heard Island, McDonald Islands",Heard Island,McDonald Islands,NA,NA
+Honduras,HN,Honduras,Honduran,Honduran,NA,NA,NA
+Croatia,HR,Croatia,Croatian,Croatian,NA,NA,NA
+Haiti,HT,Haiti,Haitian,Haitian,NA,NA,NA
+Hungary,HU,Hungary,"Hungarian, Magyar",Hungarian,Magyar,NA,NA
+Indonesia,ID,Indonesia,Indonesian,Indonesian,NA,NA,NA
+Ireland,IE,Ireland,Irish,Irish,NA,NA,NA
+Israel,IL,Israel,Israeli,Israeli,NA,NA,NA
+Isle of Man,IM,Isle of Man,Manx,Manx,NA,NA,NA
+India,IN,India,Indian,Indian,NA,NA,NA
+British Indian Ocean Territory,IO,British Indian Ocean Territory,BIOT,BIOT,NA,NA,NA
+Iraq,IQ,Iraq,Iraqi,Iraqi,NA,NA,NA
+Iran,IR,Iran,"Iranian, Persian",Iranian,Persian,NA,NA
+Iceland,IS,Iceland,Icelandic,Icelandic,NA,NA,NA
+Italy,IT,Italy,Italian,Italian,NA,NA,NA
+Jersey,JE,Jersey,Channel Island,Channel Island,NA,NA,NA
+Jamaica,JM,Jamaica,Jamaican,Jamaican,NA,NA,NA
+Jordan,JO,Jordan,Jordanian,Jordanian,NA,NA,NA
+Japan,JP,Japan,Japanese,Japanese,NA,NA,NA
+Kenya,KE,Kenya,Kenyan,Kenyan,NA,NA,NA
+Kyrgyzstan,KG,Kyrgyzstan,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",Kyrgyzstani,Kyrgyz,Kirgiz,Kirghiz
+Cambodia,KH,Cambodia,Cambodian,Cambodian,NA,NA,NA
+Kiribati,KI,Kiribati,I-Kiribati,I-Kiribati,NA,NA,NA
+Comoros,KM,Comoros,"Comoran, Comorian",Comoran,Comorian,NA,NA
+Saint Kitts and Nevis,KN,Saint Kitts and Nevis,"Kittitian, Nevisian",Kittitian,Nevisian,NA,NA
+Democratic People's Republic of Korea,KP,"Korea, Democratic People's Republic of",North Korean,North Korean,NA,NA,NA
+Korea,KR,"Korea, Republic of",South Korean,South Korean,NA,NA,NA
+Kuwait,KW,Kuwait,Kuwaiti,Kuwaiti,NA,NA,NA
+Cayman Islands,KY,Cayman Islands,Caymanian,Caymanian,NA,NA,NA
+Kazakhstan,KZ,Kazakhstan,"Kazakhstani, Kazakh",Kazakhstani,Kazakh,NA,NA
+Lebanon,LB,Lebanon,Lebanese,Lebanese,NA,NA,NA
+Saint Lucia,LC,Saint Lucia,Saint Lucian,Saint Lucian,NA,NA,NA
+Liechtenstein,LI,Liechtenstein,Liechtenstein,Liechtenstein,NA,NA,NA
+Sri Lanka,LK,Sri Lanka,Sri Lankan,Sri Lankan,NA,NA,NA
+Liberia,LR,Liberia,Liberian,Liberian,NA,NA,NA
+Lesotho,LS,Lesotho,Basotho,Basotho,NA,NA,NA
+Lithuania,LT,Lithuania,Lithuanian,Lithuanian,NA,NA,NA
+Luxembourg,LU,Luxembourg,"Luxembourg, Luxembourgish",Luxembourg,Luxembourgish,NA,NA
+Latvia,LV,Latvia,Latvian,Latvian,NA,NA,NA
+Libya,LY,Libya,Libyan,Libyan,NA,NA,NA
+Morocco,MA,Morocco,Moroccan,Moroccan,NA,NA,NA
+Monaco,MC,Monaco,"Monégasque, Monacan",Monégasque,Monacan,NA,NA
+Republic of Moldova,MD,Moldova,Moldovan,Moldovan,NA,NA,NA
+Montenegro,ME,Montenegro,Montenegrin,Montenegrin,NA,NA,NA
+Saint Martin,MF,Saint Martin,Saint-Martinoise,Saint-Martinoise,NA,NA,NA
+Madagascar,MG,Madagascar,Malagasy,Malagasy,NA,NA,NA
+Marshall Islands,MH,Marshall Islands,Marshallese,Marshallese,NA,NA,NA
+the former Yugoslav Republic of Macedonia,MK,"Macedonia, Republic of",Macedonian,Macedonian,NA,NA,NA
+Mali,ML,Mali,"Malian, Malinese",Malian,Malinese,NA,NA
+Myanmar,MM,Myanmar,Burmese,Burmese,NA,NA,NA
+Mongolia,MN,Mongolia,Mongolian,Mongolian,NA,NA,NA
+Northern Mariana Islands,MP,Northern Mariana Islands,Northern Marianan,Northern Marianan,NA,NA,NA
+Martinique,MQ,Martinique,"Martiniquais, Martinican",Martiniquais,Martinican,NA,NA
+Mauritania,MR,Mauritania,Mauritanian,Mauritanian,NA,NA,NA
+Montserrat,MS,Montserrat,Montserratian,Montserratian,NA,NA,NA
+Malta,MT,Malta,Maltese,Maltese,NA,NA,NA
+Mauritius,MU,Mauritius,Mauritian,Mauritian,NA,NA,NA
+Maldives,MV,Maldives,Maldivian,Maldivian,NA,NA,NA
+Malawi,MW,Malawi,Malawian,Malawian,NA,NA,NA
+Mexico,MX,Mexico,Mexican,Mexican,NA,NA,NA
+Malaysia,MY,Malaysia,Malaysian,Malaysian,NA,NA,NA
+Mozambique,MZ,Mozambique,Mozambican,Mozambican,NA,NA,NA
+Namibia,NA,Namibia,Namibian,Namibian,NA,NA,NA
+New Caledonia,NC,New Caledonia,New Caledonian,New Caledonian,NA,NA,NA
+Niger,NE,Niger,Nigerien,Nigerien,NA,NA,NA
+Norfolk Island,NF,Norfolk Island,Norfolk Island,Norfolk Island,NA,NA,NA
+Nigeria,NG,Nigeria,Nigerian,Nigerian,NA,NA,NA
+Nicaragua,NI,Nicaragua,Nicaraguan,Nicaraguan,NA,NA,NA
+Netherlands,NL,Netherlands,"Dutch, Netherlandic",Dutch,Netherlandic,NA,NA
+Norway,NO,Norway,Norwegian,Norwegian,NA,NA,NA
+Nepal,NP,Nepal,"Nepali, Nepalese",Nepali,Nepalese,NA,NA
+Nauru,NR,Nauru,Nauruan,Nauruan,NA,NA,NA
+Niue,NU,Niue,Niuean,Niuean,NA,NA,NA
+New Zealand,NZ,New Zealand,"New Zealand, NZ",New Zealand,New Zealander,Kiwi,NA
+Oman,OM,Oman,Omani,Omani,NA,NA,NA
+Panama,PA,Panama,Panamanian,Panamanian,NA,NA,NA
+Peru,PE,Peru,Peruvian,Peruvian,NA,NA,NA
+French Polynesia,PF,French Polynesia,French Polynesian,French Polynesian,NA,NA,NA
+Papua New Guinea,PG,Papua New Guinea,"Papua New Guinean, Papuan",Papua New Guinean,Papuan,NA,NA
+Philippines,PH,Philippines,"Philippine, Filipino",Philippine,Filipino,NA,NA
+Pakistan,PK,Pakistan,Pakistani,Pakistani,NA,NA,NA
+Poland,PL,Poland,Polish,Polish,NA,NA,NA
+Saint Pierre and Miquelon,PM,Saint Pierre and Miquelon,"Saint-Pierrais, Miquelonnais",Saint-Pierrais,Miquelonnais,NA,NA
+Pitcairn,PN,Pitcairn Islands,Pitcairn Island,Pitcairn Island,NA,NA,NA
+Puerto Rico,PR,Puerto Rico,Puerto Rican,Puerto Rican,NA,NA,NA
+Palestine,PS,Palestine,Palestinian,Palestinian,NA,NA,NA
+Portugal,PT,Portugal,Portuguese,Portuguese,NA,NA,NA
+Palau,PW,Palau,Palauan,Palauan,NA,NA,NA
+Paraguay,PY,Paraguay,Paraguayan,Paraguayan,NA,NA,NA
+Qatar,QA,Qatar,Qatari,Qatari,NA,NA,NA
+Reunion,RE,Réunion,"Réunionese, Réunionnais",Réunionese,Réunionnais,NA,NA
+Romania,RO,Romania,Romanian,Romanian,NA,NA,NA
+Serbia,RS,Serbia,Serbian,Serbian,NA,NA,NA
+Russia,RU,Russia,Russian,Russian,NA,NA,NA
+Rwanda,RW,Rwanda,Rwandan,Rwandan,NA,NA,NA
+Saudi Arabia,SA,Saudi Arabia,"Saudi, Saudi Arabian",Saudi,Saudi Arabian,NA,NA
+Solomon Islands,SB,Solomon Islands,Solomon Island,Solomon Island,NA,NA,NA
+Seychelles,SC,Seychelles,Seychellois,Seychellois,NA,NA,NA
+Sudan,SD,Sudan,Sudanese,Sudanese,NA,NA,NA
+Sweden,SE,Sweden,Swedish,Swedish,NA,NA,NA
+Singapore,SG,Singapore,"Singapore, Singaporean",Singapore,Singaporean,NA,NA
+Saint Ascension and Tristan da Cunha Helena,SH,"Saint Helena, Ascension and Tristan da Cunha",Saint Helenian,Saint Helenian,NA,NA,NA
+Slovenia,SI,Slovenia,"Slovenian, Slovene",Slovenian,Slovene,NA,NA
+Svalbard and Jan Mayen,SJ,Jan Mayen,Jan Mayen,Jan Mayen,NA,NA,NA
+Slovakia,SK,Slovakia,Slovak,Slovak,NA,NA,NA
+Sierra Leone,SL,Sierra Leone,Sierra Leonean,Sierra Leonean,NA,NA,NA
+San Marino,SM,San Marino,Sammarinese,Sammarinese,NA,NA,NA
+Senegal,SN,Senegal,Senegalese,Senegalese,NA,NA,NA
+Somalia,SO,Somalia,"Somali, Somalian",Somali,Somalian,NA,NA
+Suriname,SR,Surinam,Surinamese,Surinamese,NA,NA,NA
+South Sudan,SS,South Sudan,South Sudanese,South Sudanese,NA,NA,NA
+El Salvador,SV,El Salvador,Salvadoran,Salvadoran,NA,NA,NA
+Sint Maarten,SX,Sint Maarten,Sint Maarten,Sint Maarten,NA,NA,NA
+Syria,SY,Syria,Syrian,Syrian,NA,NA,NA
+Swaziland,SZ,Swaziland,Swazi,Swazi,NA,NA,NA
+Turks and Caicos Islands,TC,Turks and Caicos Islands,Turks and Caicos Island,Turks and Caicos Island,NA,NA,NA
+Chad,TD,Chad,Chadian,Chadian,NA,NA,NA
+French Southern Territories,TF,French Southern Territories,French Southern Territories,French Southern Territories,NA,NA,NA
+Togo,TG,Togo,Togolese,Togolese,NA,NA,NA
+Thailand,TH,Thailand,Thai,Thai,NA,NA,NA
+Tajikistan,TJ,Tajikistan,Tajikistani,Tajikistani,NA,NA,NA
+Tokelau,TK,Tokelau,Tokelauan,Tokelauan,NA,NA,NA
+Timor-Leste,TL,Timor-Leste,Timorese,Timorese,NA,NA,NA
+Turkmenistan,TM,Turkmenistan,Turkmen,Turkmen,NA,NA,NA
+Tunisia,TN,Tunisia,Tunisian,Tunisian,NA,NA,NA
+Tonga,TO,Tonga,Tongan,Tongan,NA,NA,NA
+Turkey,TR,Turkey,Turkish,Turkish,NA,NA,NA
+Trinidad and Tobago,TT,Trinidad and Tobago,"Trinidadian, Tobagonian",Trinidadian,Tobagonian,NA,NA
+Tuvalu,TV,Tuvalu,Tuvaluan,Tuvaluan,NA,NA,NA
+Taiwan,TW,Taiwan,"Chinese, Taiwanese",Taiwanese,NA,NA,NA
+Ukraine,UA,Ukraine,Ukrainian,Ukrainian,NA,NA,NA
+Uganda,UG,Uganda,Ugandan,Ugandan,NA,NA,NA
+United States Minor Outlying Islands,UM,NA,NA,NA,NA,NA,NA
+United States,US,United States,"United States, US, American",United States,US,American,NA
+Uruguay,UY,Uruguay,Uruguayan,Uruguayan,NA,NA,NA
+Uzbekistan,UZ,Uzbekistan,"Uzbekistani, Uzbek",Uzbekistani,Uzbek,NA,NA
+Holy See (Vatican City State),VA,Vatican City State,Vatican,Vatican,NA,NA,NA
+Saint Vincent and the Grenadines,VC,Saint Vincent and the Grenadines,"Saint Vincentian, Vincentian",Saint Vincentian,Vincentian,NA,NA
+Venezuela,VE,Venezuela,Venezuelan,Venezuelan,NA,NA,NA
+Virgin British Islands,VG,"Virgin Islands, British",British Virgin Island,British Virgin Island,NA,NA,NA
+Virgin U.S. Islands,VI,"Virgin Islands, United States",U.S. Virgin Island,U.S. Virgin Island,NA,NA,NA
+Vietnam,VN,Vietnam,Vietnamese,Vietnamese,NA,NA,NA
+Vanuatu,VU,Vanuatu,"Ni-Vanuatu, Vanuatuan",Ni-Vanuatu,Vanuatuan,NA,NA
+Wallis and Futuna,WF,Wallis and Futuna,"Wallis and Futuna, Wallisian, Futunan",Wallis and Futuna,Wallisian,Futunan,NA
+Samoa,WS,Samoa,Samoan,Samoan,NA,NA,NA
+Yemen,YE,Yemen,Yemeni,Yemeni,NA,NA,NA
+Mayotte,YT,Mayotte,Mahoran,Mahoran,NA,NA,NA
+South Africa,ZA,South Africa,South African,South African,NA,NA,NA
+Zambia,ZM,Zambia,Zambian,Zambian,NA,NA,NA
+Zimbabwe,ZW,Zimbabwe,Zimbabwean,Zimbabwean,NA,NA,NA
+East Timor,TL,East Timor,Timorese,NA,NA,NA,NA
+England,GB,England,"English, British",English,NA,NA,NA
+Great Britain,GB,Great Britain,"British, UK",British,NA,NA,NA
+Kosovo,XK,Kosovo,"Kosovar, Kosovan",Kosovar,Kosovan,NA,NA
+Laos,LA,Laos,"Lao, Laotian",Lao,Laotian,NA,NA
+Macau,MO,Macau,"Macanese, Chinese",Macanese,NA,NA,NA
+Northern Ireland,GB,Northern Ireland,"Northern Irish, British",Northern Irish,NA,NA,NA
+Wales,GB,Wales,"Welsh, British",Welsh,NA,NA,NA
+Scotland,GB,Scotland,"Scots, Scottish, British",Scots,Scottish,NA,NA
+Tanzania,TZ,Tanzania,Tanzanian,Tanzanian,NA,NA,NA
+São Tomé and Príncipe,ST,São Tomé and Príncipe,São Toméan,São Toméan,NA,NA,NA
