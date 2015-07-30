@@ -79,5 +79,4 @@ if (!file.exists("genderize/names_to_genderize.csv")) {
   momaDB <- dbConnect(RSQLite::SQLite(), "momaDB.sqlite")
   dbWriteTable(momaDB, "artists", artists)
   dbDisconnect(momaDB)
-  unlink("momaDB.sqlite")
 }
