@@ -4,6 +4,10 @@ require(jsonlite)
 require(httr)
 require(dplyr)
 
+genderizeKey <- NA
+inputCSV <- "names_to_genderize.csv"
+
+
 # Helper function grabs gender info for a vector of names -----------------
 
 # Returns NA instead of NULL when a missing list element is requested, otherwise
@@ -16,13 +20,16 @@ getListElement <- function(listName, elementName) {
   return(listElement)
 }
 
-lookupNames <- function(nameVector, countryCode) {
+lookupNames <- function(nameVector, countryCode = NA, apiKey = NA) {
   # Construct the query
   query <- paste("name[", seq_along(nameVector), "]=", nameVector, 
                  sep="", 
                  collapse="&")
   if (!is.na(countryCode) & (countryCode != "none")) {
     query <- paste(query, "&country_id=", countryCode, sep="")
+  }
+  if (!is.na(apiKey)) {
+    query <- paste(query, "&apikey=", apiKey, sep="")
   }
   
   # Run it!
@@ -65,7 +72,7 @@ lookupNames <- function(nameVector, countryCode) {
 genderizeCountries <- fromJSON("countries.json")[[2]]
 
 # Read in the DF of artist data
-artistData <- read.csv("names_to_genderize.csv", stringsAsFactors = FALSE)
+artistData <- read.csv(inputCSV, stringsAsFactors = FALSE)
 artistData <- artistData %>%
   mutate(iso3166 = ifelse(iso3166 %in% genderizeCountries, iso3166, "none")) %>%
   arrange(iso3166, first_name)
@@ -99,7 +106,8 @@ for (c in seq_along(countriesConsidered)) {
 # Now query all the chunks and store a list of DFs of their results
 responseList <- list(genderData) # Start with what we already have
 for (i in seq_along(queryChunks)) {
-    responseDF <- lookupNames(queryChunks[[i]][[2]], queryChunks[[i]][[1]])
+    responseDF <- lookupNames(queryChunks[[i]][[2]], queryChunks[[i]][[1]],
+                              genderizeKey)
   if (is.null(responseDF)) {
     break
   } else {
