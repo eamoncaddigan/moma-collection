@@ -4,9 +4,6 @@ require(jsonlite)
 require(httr)
 require(dplyr)
 
-ssl.verifypeer <- TRUE
-
-
 # Helper function grabs gender info for a vector of names -----------------
 
 lookupNames <- function(nameVector, countryCode) {
@@ -41,36 +38,51 @@ lookupNames <- function(nameVector, countryCode) {
 }
 
 
+# Read in the name and existing gender info -------------------------------
+
 # Load the genderize.io supported countries
 genderizeCountries <- fromJSON("countries.json")[[2]]
 
-genderData <- read.csv("names_to_genderize.csv", stringsAsFactors = FALSE)
-genderData <- genderData %>%
+# Read in the DF of artist data
+artistData <- read.csv("names_to_genderize.csv", stringsAsFactors = FALSE)
+artistData <- artistData %>%
   mutate(iso3166 = ifelse(iso3166 %in% genderizeCountries, iso3166, "none")) %>%
   arrange(iso3166, first_name)
 
+# Read in the gender data we have so we don't keep querying the same people
+genderData <- read.csv("names_with_genders.csv", stringsAsFactors = FALSE)
+genderData <- genderData %>%
+  mutate(looked_up = TRUE)
+artistData <- artistData %>%
+  left_join(genderData, 
+            by = c("iso3166" = "country_id", "first_name" = "name")) %>%
+  mutate(looked_up = ifelse(is.na(looked_up), FALSE, looked_up))
+
+# Create a list of queries and run them -----------------------------------
+
 # Break the data frame of name/country combos into a list of query chunks
+artistData <- filter(artistData, !looked_up)
 queryChunks = list()
-countriesConsidered <- c(genderizeCountries, "none")
+countriesConsidered <- unique(artistData$iso3166)
 for (c in seq_along(countriesConsidered)) {
-  countryNames <- genderData$first_name[genderData$iso3166 == countriesConsidered[c]]
+  countrysNames <- artistData$first_name[artistData$iso3166 == countriesConsidered[c]]
   # Can only query up to 10 names at a time
-  while(length(countryNames) > 10) {
-    queryChunks[[length(queryChunks)+1]] <- list(countriesConsidered[c], countryNames[1:10])
-    countryNames <- countryNames[11:length(countryNames)]
+  while(length(countrysNames) > 10) {
+    queryChunks[[length(queryChunks)+1]] <- list(countriesConsidered[c], countrysNames[1:10])
+    countrysNames <- countrysNames[11:length(countrysNames)]
   }
-  queryChunks[[length(queryChunks)+1]] <- list(countriesConsidered[c], countryNames)
+  queryChunks[[length(queryChunks)+1]] <- list(countriesConsidered[c], countrysNames)
 }
 
-# Now query all the chunks
-responseList <- list()
-for (i in seq_along(queryChunks)) {
-  responseDF <- lookupNames(queryChunks[[i]][[2]], queryChunks[[i]][[1]])
-  if (is.null(responseDF)) {
-    break
-  } else {
-    responseList[[length(responseList)+1]] <- responseDF
-  }
-}
-namesWithGenders <- do.call(rbind, responseList)
-write.csv(namesWithGenders, "names_with_genders.csv", row.names = FALSE)
+# # Now query all the chunks
+# responseList <- list()
+# for (i in seq_along(queryChunks)) {
+#   responseDF <- lookupNames(queryChunks[[i]][[2]], queryChunks[[i]][[1]])
+#   if (is.null(responseDF)) {
+#     break
+#   } else {
+#     responseList[[length(responseList)+1]] <- responseDF
+#   }
+# }
+# namesWithGenders <- do.call(rbind, responseList)
+# write.csv(namesWithGenders, "names_with_genders.csv", row.names = FALSE)
