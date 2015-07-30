@@ -6,26 +6,42 @@ require(dplyr)
 
 ssl.verifypeer <- TRUE
 
-# XXX - Needs to ALWAYS return a data.frame with five columns (or NULL)
+
+# Helper function grabs gender info for a vector of names -----------------
+
 lookupNames <- function(nameVector, countryCode) {
-  query <- paste("name[", seq_along(nameVector), "]=", nameVector, sep="", collapse="&")
-  if (countryCode != "none") {
+  # Construct the query
+  query <- paste("name[", seq_along(nameVector), "]=", nameVector, 
+                 sep="", 
+                 collapse="&")
+  if (!is.na(foo) & (foo != "none")) {
     query <- paste(query, "&country_id=", countryCode, sep="")
   }
-  r <- httr::GET("https://api.genderize.io", query = query)
-  if (httr::status_code(r) == 200) {
-    responseDF <- fromJSON(httr::content(r, as="text"))
+  
+  # Run it!
+  queryResult <- GET("https://api.genderize.io", query = query)
+  if (status_code(queryResult) == 200) {
+    responseDF <- fromJSON(content(queryResult, as="text"))
+    # TODO, make sure this is a data.frame with the correct columns.
+    
   } else {
-    cat('\n', httr::http_status(r)$message)
-    cat('\n', httr::content(r)$error)
-    if (httr::status_code(r) == 429){
-      cat('\nYou have used all available requests in this subscription plan.')
+    cat(paste("\n!!!! http returned status code:",
+              status_code(queryResult),
+              "!!!! message:",
+              http_status(queryResult)$message,
+              "!!!! error:",
+              http_content(queryResult)$error,
+              sep="\n"))
+    if (status_code(queryResult) == 429){
+      cat('\n!!!! number of available requests exhaused')
     }
     responseDF <- NULL
   }
   return(responseDF)
 }
 
+
+# Load the genderize.io supported countries
 genderizeCountries <- fromJSON("countries.json")[[2]]
 
 genderData <- read.csv("names_to_genderize.csv", stringsAsFactors = FALSE)
