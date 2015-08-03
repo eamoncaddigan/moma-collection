@@ -1,0 +1,356 @@
+country,iso_3166_1_alpha_2,iso_3166_1_alpha_3,subdivisions
+Afghanistan,AF,AFG,34 provinces
+Åland Islands,AX,ALA,—
+Albania,AL,ALB,12 counties36 districts
+Algeria,DZ,DZA,48 provinces
+American Samoa,AS,ASM,—
+Andorra,AD,AND,7 parishes
+Angola,AO,AGO,18 provinces
+Anguilla,AI,AIA,—
+Antarctica,AQ,ATA,—
+Antigua and Barbuda,AG,ATG,"6 parishes
+2 dependencies"
+Argentina,AR,ARG,"1 city
+23 provinces"
+Armenia,AM,ARM,"1 city
+10 regions"
+Aruba,AW,ABW,—
+Australia,AU,AUS,"6 states
+2 territories"
+Austria,AT,AUT,9 federal lands
+Azerbaijan,AZ,AZE,"1 autonomous republic
+11 municipalities
+66 rayons"
+Bahamas,BS,BHS,31 districts
+Bahrain,BH,BHR,5 governorates
+Bangladesh,BD,BGD,7 divisions64 districts
+Barbados,BB,BRB,11 parishes
+Belarus,BY,BLR,"6 oblasts
+1 city"
+Belgium,BE,BEL,3 regions10 provinces
+Belize,BZ,BLZ,6 districts
+Benin,BJ,BEN,12 departments
+Bermuda,BM,BMU,—
+Bhutan,BT,BTN,20 districts
+"Bolivia, Plurinational State of",BO,BOL,9 departments
+"Bonaire, Sint Eustatius and Saba",BQ,BES,3 special municipalities
+Bosnia and Herzegovina,BA,BIH,"2 entities
+1 district with special status10 cantons"
+Botswana,BW,BWA,9 districts
+Bouvet Island,BV,BVT,—
+Brazil,BR,BRA,"1 federal district
+26 states"
+British Indian Ocean Territory,IO,IOT,—
+Brunei Darussalam,BN,BRN,4 districts
+Bulgaria,BG,BGR,28 regions
+Burkina Faso,BF,BFA,13 regions45 provinces
+Burundi,BI,BDI,17 provinces
+Cabo Verde,CV,CPV,2 geographical regions22 municipalities
+Cambodia,KH,KHM,"4 autonomous municipalities
+20 provinces"
+Cameroon,CM,CMR,10 regions
+Canada,CA,CAN,"10 provinces
+3 territories"
+Cayman Islands,KY,CYM,—
+Central African Republic,CF,CAF,"1 commune
+14 prefectures
+2 economic prefectures"
+Chad,TD,TCD,22 regions
+Chile,CL,CHL,15 regions
+China,CN,CHN,"4 municipalities
+23 provinces
+5 autonomous regions
+2 special administrative regions"
+Christmas Island,CX,CXR,—
+Cocos (Keeling) Islands,CC,CCK,—
+Colombia,CO,COL,"1 capital district
+32 departments"
+Comoros,KM,COM,3 islands
+Congo,CG,COG,12 departments
+"Congo, the Democratic Republic of the",CD,COD,"1 city
+10 provinces"
+Cook Islands,CK,COK,—
+Costa Rica,CR,CRI,7 provinces
+Côte d'Ivoire,CI,CIV,19 regions
+Croatia,HR,HRV,"1 city
+20 counties"
+Cuba,CU,CUB,"14 provinces
+1 special municipality"
+Curaçao,CW,CUW,—
+Cyprus,CY,CYP,6 districts
+Czech Republic,CZ,CZE,14 regions91 districts
+Denmark,DK,DNK,5 regions
+Djibouti,DJ,DJI,"5 regions
+1 city"
+Dominica,DM,DMA,10 parishes
+Dominican Republic,DO,DOM,"1 district
+31 provinces"
+Ecuador,EC,ECU,24 provinces
+Egypt,EG,EGY,29 governorates
+El Salvador,SV,SLV,14 departments
+Equatorial Guinea,GQ,GNQ,2 regions7 provinces
+Eritrea,ER,ERI,6 regions
+Estonia,EE,EST,15 counties
+Ethiopia,ET,ETH,"2 administrations
+9 states"
+Falkland Islands (Malvinas),FK,FLK,—
+Faroe Islands,FO,FRO,—
+Fiji,FJ,FJI,"4 divisions
+1 dependency"
+Finland,FI,FIN,19 regions
+France,FR,FRA,"22 metropolitan regions
+5 overseas regions/departments
+96 metropolitan departments1 dependency
+7 overseas territorial collectivities"
+French Guiana,GF,GUF,—
+French Polynesia,PF,PYF,—
+French Southern Territories,TF,ATF,—
+Gabon,GA,GAB,9 provinces
+Gambia,GM,GMB,"1 city
+5 divisions"
+Georgia,GE,GEO,"2 autonomous republics
+1 city
+9 regions"
+Germany,DE,DEU,16 federated states
+Ghana,GH,GHA,10 regions
+Gibraltar,GI,GIB,—
+Greece,GR,GRC,"13 administrative regions51 departments
+1 self-governed part"
+Greenland,GL,GRL,4 municipalities
+Grenada,GD,GRD,"6 parishes
+1 dependency"
+Guadeloupe,GP,GLP,—
+Guam,GU,GUM,—
+Guatemala,GT,GTM,22 departments
+Guernsey,GG,GGY,—
+Guinea,GN,GIN,"7 governorates
+1 special zone33 prefectures"
+Guinea-Bissau,GW,GNB,"3 provinces1 autonomous sector
+8 regions"
+Guyana,GY,GUY,10 regions
+Haiti,HT,HTI,10 departments
+Heard Island and McDonald Islands,HM,HMD,—
+Holy See (Vatican City State),VA,VAT,—
+Honduras,HN,HND,18 departments
+Hong Kong,HK,HKG,—
+Hungary,HU,HUN,"1 capital city
+19 counties
+23 cities of county right"
+Iceland,IS,ISL,9 regions
+India,IN,IND,"29 states
+7 Union territories"
+Indonesia,ID,IDN,"7 geographical units1 autonomous province
+30 provinces
+1 special district
+1 special region"
+"Iran, Islamic Republic of",IR,IRN,30 provinces
+Iraq,IQ,IRQ,18 governorates
+Ireland,IE,IRL,4 provinces26 counties
+Isle of Man,IM,IMN,—
+Israel,IL,ISR,6 districts
+Italy,IT,ITA,20 regions110 provinces
+Jamaica,JM,JAM,14 parishes
+Japan,JP,JPN,47 prefectures
+Jersey,JE,JEY,—
+Jordan,JO,JOR,12 governorates
+Kazakhstan,KZ,KAZ,"2 cities
+14 regions"
+Kenya,KE,KEN,8 provinces
+Kiribati,KI,KIR,3 groups of islands
+"Korea, Democratic People's Republic of",KP,PRK,"1 capital city
+1 special city
+9 provinces"
+"Korea, Republic of",KR,KOR,"1 capital metropolitan city
+6 metropolitan cities
+9 provinces"
+Kuwait,KW,KWT,6 governorates
+Kyrgyzstan,KG,KGZ,"1 city
+7 regions"
+Lao People's Democratic Republic,LA,LAO,"1 prefecture
+16 provinces
+1 special zone"
+Latvia,LV,LVA,"110 municipalities
+9 republican cities"
+Lebanon,LB,LBN,8 governorates
+Lesotho,LS,LSO,10 districts
+Liberia,LR,LBR,15 counties
+Libya,LY,LBY,22 popularates
+Liechtenstein,LI,LIE,11 communes
+Lithuania,LT,LTU,10 counties
+Luxembourg,LU,LUX,3 districts
+Macao,MO,MAC,—
+"Macedonia, the former Yugoslav Republic of",MK,MKD,84 municipalities
+Madagascar,MG,MDG,6 provinces
+Malawi,MW,MWI,3 regions28 districts
+Malaysia,MY,MYS,"3 federal territories
+13 states"
+Maldives,MV,MDV,"7 provinces
+1 capital
+20 administrative atolls"
+Mali,ML,MLI,"1 district
+8 regions"
+Malta,MT,MLT,68 local councils
+Marshall Islands,MH,MHL,2 groups of islands24 municipalities
+Martinique,MQ,MTQ,—
+Mauritania,MR,MRT,"1 district
+12 regions"
+Mauritius,MU,MUS,3 outer islands9 districts
+Mayotte,YT,MYT,—
+Mexico,MX,MEX,"31 states
+1 district"
+"Micronesia, Federated States of",FM,FSM,4 states
+"Moldova, Republic of",MD,MDA,"1 autonomous territorial unit
+3 cities
+32 districts
+1 territorial unit"
+Monaco,MC,MCO,17 quarters
+Mongolia,MN,MNG,"1 capital city
+21 provinces"
+Montenegro,ME,MNE,21 municipalities
+Montserrat,MS,MSR,—
+Morocco,MA,MAR,"16 regions46 provinces
+17 prefectures"
+Mozambique,MZ,MOZ,"1 city
+10 provinces"
+Myanmar,MM,MMR,"7 divisions
+7 states"
+Namibia,NA,NAM,13 regions
+Nauru,NR,NRU,14 districts
+Nepal,NP,NPL,5 development regions14 zones
+Netherlands,NL,NLD,12 provinces3 countries3 special municipalities
+New Caledonia,NC,NCL,—
+New Zealand,NZ,NZL,"2 islands12 regional councils
+4 unitary authorities
+1 special island authority"
+Nicaragua,NI,NIC,"15 departments
+2 autonomous regions"
+Niger,NE,NER,"1 urban community
+7 departments"
+Nigeria,NG,NGA,"1 capital district
+36 states"
+Niue,NU,NIU,—
+Norfolk Island,NF,NFK,—
+Northern Mariana Islands,MP,MNP,—
+Norway,NO,NOR,19 counties2 territories
+Oman,OM,OMN,"5 regions
+4 governorates"
+Pakistan,PK,PAK,"1 federal capital territory
+4 provinces
+1 territory
+2 Pakistan administered areas"
+Palau,PW,PLW,16 states
+"Palestine, State of",PS,PSE,16 governorates
+Panama,PA,PAN,"9 provinces
+3 indigenous regions"
+Papua New Guinea,PG,PNG,"1 district
+18 provinces
+1 autonomous region"
+Paraguay,PY,PRY,"1 capital
+17 departments"
+Peru,PE,PER,"1 constitutional province
+1 municipality
+24 departments"
+Philippines,PH,PHL,17 regions80 provinces
+Pitcairn,PN,PCN,—
+Poland,PL,POL,16 provinces
+Portugal,PT,PRT,"18 districts
+2 autonomous regions"
+Puerto Rico,PR,PRI,—
+Qatar,QA,QAT,7 municipalities
+Réunion,RE,REU,—
+Romania,RO,ROU,"41 departments
+1 municipality"
+Russian Federation,RU,RUS,"21 republics
+9 administrative territories
+46 administrative regions
+2 autonomous cities
+1 autonomous region
+4 autonomous districts"
+Rwanda,RW,RWA,"1 town council
+4 provinces"
+Saint Barthélemy,BL,BLM,—
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,3 geographical entities
+Saint Kitts and Nevis,KN,KNA,2 states14 parishes
+Saint Lucia,LC,LCA,11 quarters
+Saint Martin (French part),MF,MAF,—
+Saint Pierre and Miquelon,PM,SPM,—
+Saint Vincent and the Grenadines,VC,VCT,6 parishes
+Samoa,WS,WSM,11 districts
+San Marino,SM,SMR,9 municipalities
+Sao Tome and Principe,ST,STP,2 provinces
+Saudi Arabia,SA,SAU,13 provinces
+Senegal,SN,SEN,14 regions
+Serbia,RS,SRB,"2 autonomous provinces1 city
+29 districts"
+Seychelles,SC,SYC,25 districts
+Sierra Leone,SL,SLE,"1 area
+3 provinces"
+Singapore,SG,SGP,5 districts
+Sint Maarten (Dutch part),SX,SXM,—
+Slovakia,SK,SVK,8 regions
+Slovenia,SI,SVN,210 municipalities
+Solomon Islands,SB,SLB,"1 capital territory
+9 provinces"
+Somalia,SO,SOM,18 regions
+South Africa,ZA,ZAF,9 provinces
+South Georgia and the South Sandwich Islands,GS,SGS,—
+South Sudan,SS,SSD,10 states
+Spain,ES,ESP,"17 autonomous communities
+2 autonomous cities in North Africa50 provinces"
+Sri Lanka,LK,LKA,9 provinces25 districts
+Sudan,SD,SDN,17 states
+Suriname,SR,SUR,10 districts
+Svalbard and Jan Mayen,SJ,SJM,—
+Swaziland,SZ,SWZ,4 districts
+Sweden,SE,SWE,21 counties
+Switzerland,CH,CHE,26 cantons
+Syrian Arab Republic,SY,SYR,14 provinces
+"Taiwan, Province of China",TW,TWN,"16 districts
+5 municipalities
+2 special municipalities"
+Tajikistan,TJ,TJK,"1 autonomous region
+2 regions
+1 capital territory"
+"Tanzania, United Republic of",TZ,TZA,26 regions
+Thailand,TH,THA,"1 metropolitan administration
+1 special administrative city
+75 provinces"
+Timor-Leste,TL,TLS,13 districts
+Togo,TG,TGO,5 regions
+Tokelau,TK,TKL,—
+Tonga,TO,TON,5 divisions
+Trinidad and Tobago,TT,TTO,"11 regions
+5 municipalities"
+Tunisia,TN,TUN,24 governorates
+Turkey,TR,TUR,81 provinces
+Turkmenistan,TM,TKM,"5 regions
+1 city"
+Turks and Caicos Islands,TC,TCA,—
+Tuvalu,TV,TUV,"1 town council
+7 island councils"
+Uganda,UG,UGA,4 geographical regions111 districts
+Ukraine,UA,UKR,"24 regions
+1 republic
+2 cities"
+United Arab Emirates,AE,ARE,7 emirates
+United Kingdom,GB,GBR,England: 27 two-tier counties32 London boroughs36 metropolitan districts55 unitary authorities1 city corporationNorthern Ireland: 26 former districtsScotland: 32 council areasWales: 22 unitary authorities(included for completeness:England and WalesGreat BritainUnited Kingdom)
+United States,US,USA,50 states1 district6 outlying areas
+United States Minor Outlying Islands,UM,UMI,9 islands and groups of islands
+Uruguay,UY,URY,19 departments
+Uzbekistan,UZ,UZB,"1 city
+12 regions
+1 republic"
+Vanuatu,VU,VUT,6 provinces
+"Venezuela, Bolivarian Republic of",VE,VEN,"1 federal dependency
+1 federal district
+23 states"
+Viet Nam,VN,VNM,"59 provinces
+5 municipalities"
+"Virgin Islands, British",VG,VGB,—
+"Virgin Islands, U.S.",VI,VIR,—
+Wallis and Futuna,WF,WLF,—
+Western Sahara,EH,ESH,—
+Yemen,YE,YEM,"1 municipality
+20 governorates"
+Zambia,ZM,ZMB,9 provinces
+Zimbabwe,ZW,ZWE,10 provinces
